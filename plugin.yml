@@ -4,3 +4,4 @@ main: AxelFeL\CustomJoft\Main
 author: AxelFeL
 version: 1
 description: Customize Join & Quit Message
+softdepend: PurePerms
